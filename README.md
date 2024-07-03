@@ -1,4 +1,4 @@
-Hola!! Soy Tomás Prado 👋🏻 👋🏻
+<H1>Hola!! Soy Tomás Prado 👋🏻 </H1>
 
 <H3>— SOBRE MI.</H3>
 🌱 Tengo 18 años y soy un apasionado por el diseño, la programación y el dibujo, me gusta mucho aprender cosas nuevas.
